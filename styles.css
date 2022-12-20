@@ -1,0 +1,57 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+h3 {
+    width: 70%;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    margin-top: 10%;
+    padding-top: 15px;
+    height: 500px;
+    width: 320px;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    font-family: 'Jost', sans-serif;
+}
+.title {
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 23px;
+    margin-right: 23px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    font-size: 22px;
+    inline-size: auto;
+}
+
+.paragraph {
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 23px;
+    margin-right: 23px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: hsl(220, 15%, 55%)
+    ;
+
+}
+
+.qr-code {
+    height: 290px;
+    width: 290px;
+    border-radius: 5%;
+}
+
+.foot {
+    margin: auto;
+    width: 300px;
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+}
